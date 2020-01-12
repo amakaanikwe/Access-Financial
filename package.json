@@ -1,0 +1,19 @@
+{
+  "name": "access-financial",
+  "version": "1.0.0",
+  "description": "finance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amakaanikwe/Access-Financial.git"
+  },
+  "author": "Amaka Anikwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amakaanikwe/Access-Financial/issues"
+  },
+  "homepage": "https://github.com/amakaanikwe/Access-Financial#readme"
+}
