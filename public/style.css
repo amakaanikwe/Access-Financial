@@ -3,6 +3,11 @@ nav {
     background-color: rgb(168, 167, 167);
 }
 
+.gray {
+    color: white;
+    background-color: gray;
+}
+
 .padding{
     padding: 30px;
 }
