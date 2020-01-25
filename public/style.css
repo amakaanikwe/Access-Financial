@@ -1,6 +1,9 @@
 nav {
-    color: white;
     background-color: rgb(168, 167, 167);
+}
+
+navStyle {
+    color: white;
 }
 
 .gray {
