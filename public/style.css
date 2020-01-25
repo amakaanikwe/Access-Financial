@@ -11,6 +11,10 @@ navStyle {
     background-color: gray;
 }
 
+iconStyle {
+    height: 10px;
+}
+
 .padding{
     padding: 30px;
 }
