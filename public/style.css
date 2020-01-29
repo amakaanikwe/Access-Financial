@@ -1,7 +1,4 @@
 
-imageIcon {
-    padding: 20px;
-}
 
 /* nav */
 nav {
@@ -28,5 +25,9 @@ iconStyle {
 }
 
 .padding{
-    padding: 30px;
+    padding: 70px 30px;
+}
+
+.footerPadding{
+    padding: 30px 30px;
 }
