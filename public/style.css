@@ -1,5 +1,7 @@
 nav {
-    background-color: rgb(168, 167, 167);
+    padding: 60px;
+    color: black;
+    background-color: white;
 }
 
 navStyle {
