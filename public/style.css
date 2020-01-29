@@ -28,6 +28,17 @@ iconStyle {
     padding: 70px 30px;
 }
 
+.custIcon {
+    color: rgb(247, 238, 238);
+    background-color: black;
+    font-family: "Futura";
+    text-align: center;
+    /* border-style: solid; */
+    /* border-radius: 15px; */
+    padding: 30px;
+    margin: 5px;
+  }
+
 .OSPadding {
     padding-bottom: 85px;
 
