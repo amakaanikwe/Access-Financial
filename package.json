@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amakaanikwe/Access-Financial/issues"
   },
-  "homepage": "https://github.com/amakaanikwe/Access-Financial#readme"
+  "homepage": "https://github.com/amakaanikwe/Access-Financial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
