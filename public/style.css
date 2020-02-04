@@ -28,8 +28,11 @@ iconStyle {
     padding: 70px 30px;
 }
 
-#stills {
-    padding: 50px;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 /* .custshell {
