@@ -1,3 +1,8 @@
+body {
+  margin: 0;
+
+}
+
 /* nav */
 nav {
   padding: 60px;
@@ -9,15 +14,27 @@ a {
   color: black;
 }
 
-navStyle {
+.navStyle {
   color: white;
 }
 
-.gray {
-  color: white;
-  background-color: gray;
+li a:hover {
+  color: black;
+  border-bottom: 2px solid #C53D3D;
 }
 
+body > div > section div > div > nav > ul > .navText {
+  font-size: 1.5 rem;
+}
+
+.blockColor {
+  color: white;
+  background-color: rgb(19 73 88);
+}
+
+blockHeadColor {
+  border-bottom: 2px solid white;
+}
 iconStyle {
   height: 10px;
 }
