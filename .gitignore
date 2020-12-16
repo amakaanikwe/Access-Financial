@@ -6,6 +6,14 @@ yarn-debug.log*
 yarn-error.log*
 firebase-debug.log*
 
+# HTML
+public/other.html
+
+# Assets
+public/assets/img
+public/assets/vendor
+public/forms/Readme.txt
+
 # Firebase cache
 .firebase/
 
