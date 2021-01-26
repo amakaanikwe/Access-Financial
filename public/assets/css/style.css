@@ -673,6 +673,12 @@ section {
   min-height: 500px;
 }
 
+.video-box-img {
+  background: url("https://dl.dropboxusercontent.com/s/mlb3b6avnmrru88/toa-heftiba-4xe-yVFJCvw-unsplash.jpg?dl=0") center center no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+
 .about .play-btn {
   width: 94px;
   height: 94px;
